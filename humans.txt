@@ -1,0 +1,11 @@
+/* TEAM */
+  Design and development: Alex Carpenter
+  Twitter: @hybrid_alex
+  From: Grand Rapids, MI
+
+/* SITE */
+  Last update: 2017-11-24 16:51:35 -0500
+  Language: English
+  Doctype: HTML5
+  CMS: Jekyll 3.5.1
+  IDE: Sublime Text 3
